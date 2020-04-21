@@ -7,6 +7,6 @@
 #pragma package(smart_init)
 
 UnicodeString Item::GetReadyStatus(){
-	if(isReady) return "готов";
-	return "не готов";
+	if(isReady) return "РіРѕС‚РѕРІ";
+	return "РЅРµ РіРѕС‚РѕРІ";
 }
